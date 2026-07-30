@@ -1,28 +1,30 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Hi,%20I'm%20Ankit%20Singh!&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Enthusiast&descAlignY=55&descAlign=50" />
+# 👋 Hi, I'm Ankit Singh
 
-</div>
+### Full-Stack Developer | AI & Automation Enthusiast
 
-<div align="center">
+<i>
+Building modern web applications, AI-powered solutions, and smart automation systems that solve real-world problems.
+</i>
 
-  <br>
+<br><br>
 
-  <i>Building modern web applications, AI-powered solutions, and smart automation systems that solve real-world problems.</i>
+<a href="https://github.com/ankit8333">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <br><br>
+<a href="https://www.linkedin.com/in/ankit-singh-8a173427/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://github.com/ankit8333">
-    <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="mailto:tomarankit9634@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/ankit-singh-8a173427/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<br><br>
 
-  <a href="mailto:tomarankit9634@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=ankit8333&label=Profile%20Views&color=00C6FF&style=for-the-badge" />
 
 </div>
 
@@ -40,6 +42,7 @@ I enjoy transforming ideas into real-world digital products by combining **moder
 - ☁️ **Cloud:** AWS
 - 🧠 **Problem Solving:** Data Structures and Algorithms
 - 🚀 **Goal:** Build technology that solves real-world problems
+- 🌱 **Currently Learning:** Advanced React.js, Backend Development, AI Integration, and Cloud Technologies
 
 ---
 
@@ -65,7 +68,7 @@ I enjoy transforming ideas into real-world digital products by combining **moder
 
 ---
 
-### ⚙️ Backend and Database
+### ⚙️ Backend & Database
 
 <div align="center">
 
@@ -85,7 +88,7 @@ I enjoy transforming ideas into real-world digital products by combining **moder
 
 ---
 
-### 🤖 AI and Automation
+### 🤖 AI & Automation
 
 <div align="center">
 
@@ -101,7 +104,7 @@ I enjoy transforming ideas into real-world digital products by combining **moder
 
 ---
 
-### ☁️ Cloud and DevOps
+### ☁️ Cloud & DevOps
 
 <div align="center">
 
@@ -126,7 +129,7 @@ I enjoy transforming ideas into real-world digital products by combining **moder
 
 <td width="50%" valign="top">
 
-### 🤖 AI and Automation Solutions
+### 🤖 AI & Automation Solutions
 
 Building intelligent solutions that help businesses automate repetitive tasks, improve workflows, and make better use of their data.
 
@@ -204,15 +207,94 @@ Working on technology solutions that combine **AI, automation, and software deve
 
 <div align="center">
 
-```text
-💡 Understand the Problem
-        ↓
-🎯 Plan the Solution
-        ↓
-💻 Build the Product
-        ↓
-🤖 Add Intelligence & Automation
-        ↓
-☁️ Deploy & Scale
-        ↓
-🚀 Continuously Improve
+| 💡 Understand | 🎯 Plan | 💻 Build | 🤖 Automate | ☁️ Deploy | 🚀 Improve |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Understand the Problem | Plan the Solution | Build the Product | Add Intelligence | Deploy & Scale | Continuously Improve |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit8333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit8333&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit8333&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankit8333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit8333&bg_color=0D1117&color=00C6FF&line=0072FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 💡 My Development Philosophy
+
+<div align="center">
+
+> **"Build with purpose. Automate what can be automated. Create technology that makes a real difference."**
+
+</div>
+
+I believe great software isn't just about writing code.
+
+It's about **understanding problems, designing better solutions, and creating technology that delivers real value.**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **Software Development, AI, Automation, and exciting technology projects**.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/ankit-singh-8a173427/">
+<img src="https://img.shields.io/badge/LinkedIn-Ankit_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ankit8333">
+<img src="https://img.shields.io/badge/GitHub-ankit8333-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:tomarankit9634@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer" />
+
+</div>
