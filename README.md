@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ankit Singh
 
-### Full-Stack Developer | AI & Automation Enthusiast
+### Software Developer | Full-Stack Developer | AI & Automation Enthusiast
 
 <i>
 Building modern web applications, AI-powered solutions, and smart automation systems that solve real-world problems.
@@ -32,17 +32,38 @@ Building modern web applications, AI-powered solutions, and smart automation sys
 
 ## 🚀 About Me
 
-Hi, I'm **Ankit Singh**, a passionate **Full-Stack Developer** focused on building scalable web applications, AI-powered solutions, and business automation systems.
+Hi, I'm **Ankit Singh**, a passionate **Software Developer** focused on building modern web applications, AI-powered solutions, and business automation systems.
 
-I enjoy transforming ideas into real-world digital products by combining **modern frontend development, backend architecture, cloud technologies, AI, and automation**.
+I enjoy turning ideas into real-world digital products by combining **frontend development, backend technologies, cloud platforms, AI, and automation**.
 
-- 🔭 **Currently Working On:** AI-powered solutions and business automation
-- 💻 **Focus Areas:** Full-Stack Development, React.js, Node.js, and AI Automation
-- 🤖 **Interested In:** Artificial Intelligence, Automation, and Intelligent Systems
+- 💼 **Currently Working At:** DissolveX
+- 👨‍💻 **Role:** Software Developer
+- 🚀 **Working On:** AI Solutions, Business Automation & Web Applications
+- 🎨 **Frontend:** React.js, JavaScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, Java & Spring Boot
 - ☁️ **Cloud:** AWS
-- 🧠 **Problem Solving:** Data Structures and Algorithms
-- 🚀 **Goal:** Build technology that solves real-world problems
-- 🌱 **Currently Learning:** Advanced React.js, Backend Development, AI Integration, and Cloud Technologies
+- 🤖 **Interested In:** AI, Automation & Intelligent Systems
+- 🧠 **Problem Solving:** Data Structures & Algorithms
+- 🌱 **Currently Learning:** Advanced Full-Stack Development, AI Integration & Cloud Technologies
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Software Developer at DissolveX
+
+Currently working as a **Software Developer at DissolveX**, contributing to the development of modern web applications, AI-powered solutions, and business automation systems.
+
+**Working Areas:**
+
+- 🌐 Full-Stack Web Development
+- ⚛️ React.js Frontend Development
+- ⚙️ Backend API Development
+- 🤖 AI-Powered Solutions
+- 🔄 Business Process Automation
+- 📧 Email & Marketing Automation
+- 💬 Chatbot Solutions
+- ☁️ AWS Deployment & Cloud Integration
 
 ---
 
@@ -122,39 +143,39 @@ I enjoy transforming ideas into real-world digital products by combining **moder
 
 ---
 
-## 🔥 What I Build
+## 🔥 What I Work On
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 AI & Automation Solutions
+### 🤖 AI & Automation
 
-Building intelligent solutions that help businesses automate repetitive tasks, improve workflows, and make better use of their data.
+Building and integrating intelligent solutions that help businesses automate repetitive tasks, improve workflows, and increase productivity.
 
-**Focus:**
+**Focus Areas:**
 
 - AI-powered business solutions
 - Workflow automation
 - Email automation
 - Marketing automation
 - Intelligent chatbot solutions
-- Data-driven automation
+- AI integrations
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Full-Stack Web Applications
+### 🌐 Full-Stack Development
 
 Developing modern, responsive, and scalable web applications using modern frontend and backend technologies.
 
-**Focus:**
+**Focus Areas:**
 
 - React.js applications
-- Node.js and Express APIs
-- Authentication and JWT
+- Node.js & Express APIs
+- Authentication & JWT
 - Database integration
 - REST APIs
 - AWS deployment
@@ -171,7 +192,7 @@ Developing modern, responsive, and scalable web applications using modern fronte
 
 Exploring the integration of AI into real-world applications to create smarter and more efficient digital experiences.
 
-**Focus:**
+**Focus Areas:**
 
 - AI integrations
 - Intelligent automation
@@ -183,18 +204,18 @@ Exploring the integration of AI into real-world applications to create smarter a
 
 <td width="50%" valign="top">
 
-### 🚀 DissolveX AI Solutions
+### 🚀 Software Engineering
 
-Working on technology solutions that combine **AI, automation, and software development** to help businesses optimize their workflows and improve productivity.
+Focused on writing clean, maintainable, and scalable code while continuously learning modern technologies and development practices.
 
-**Areas:**
+**Focus Areas:**
 
-- AI Solutions
-- Business Automation
-- Chatbot Solutions
-- Email Automation
-- Marketing Automation
-- Custom Software Solutions
+- Problem Solving
+- Data Structures & Algorithms
+- Clean Code
+- API Development
+- Scalable Architecture
+- Cloud Technologies
 
 </td>
 
